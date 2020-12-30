@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - AnimatedTextInput (0.5.5)
+  - IQKeyboardManagerSwift (6.5.6)
+  - ObjectMapper (3.5.3)
+  - ReachabilitySwift (4.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - AlamofireObjectMapper
+  - AnimatedTextInput
+  - IQKeyboardManagerSwift
+  - ObjectMapper
+  - ReachabilitySwift (~> 4.3.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - AnimatedTextInput
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  AnimatedTextInput: aadbdfa5a538a03cc9fbea700b43d2bb21a5d132
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+
+PODFILE CHECKSUM: cd528c5c918ffb0a1f18256d0d20b9a9863e6e88
+
+COCOAPODS: 1.9.3
